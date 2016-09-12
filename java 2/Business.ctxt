@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=fn\ ln\ st\ tn\ pc\ cn
+comment0.target=Business(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\nConstruct\ an\ Personal\ with\ fields\ inherited\ from\ Entry\ Class\ along\ with\ extra\ parameter\ \r\n@param\ cn\ \=\ companyName\r\n
+comment1.params=
+comment1.target=java.lang.String\ getCompanyName()
+comment1.text=\r\nReturn\ company\ name\r\n@return\ String\ companyName\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\nReturn\ first\ name,\ last\ name,\ town,\ street,\ postcode\ and\ company\ name\r\n@return\ String\ PersonDetails\r\n
+numComments=3

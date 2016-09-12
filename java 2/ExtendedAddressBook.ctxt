@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ExtendedAddressBook()
+comment0.text=\r\n\ Empty\ constructor\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPersonalList()
+comment1.text=\r\nReturn\ personal\ details\ list\r\n@return\ String\ PersonalList\r\n
+comment2.params=
+comment2.target=java.lang.String\ getBusinessList()
+comment2.text=\r\nReturn\ business\ details\ list\r\n@return\ String\ BusinessList\r\n
+numComments=3
